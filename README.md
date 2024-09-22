@@ -19,16 +19,6 @@ I'm a passionate **Web Developer** and **Python enthusiast**, with a growing int
 
 ---
 
-## 📈 GitHub Stats:
-![Sambhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambhav260904&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sambhav260904&theme=monokai)
-
----
-
 ## 🤝 Connect with Me:
 - LinkedIn: [Sambhav Rawani](https://www.linkedin.com/in/Sambhav-Rawani)
 - GitHub: [Sambhav260904](https://github.com/Sambhav260904)
