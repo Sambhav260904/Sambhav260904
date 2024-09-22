@@ -6,7 +6,7 @@ I'm a passionate **Web Developer** and **Python enthusiast**, with a growing int
 - 🌱 I’m currently learning **full-stack development** with technologies like **Node.js**, **MongoDB**, **Express**, and **React**
 - 👯 I’m looking to collaborate on web development projects and open-source contributions
 - 💬 Ask me about **Java**, **Python**, and **Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Sambhav-Rawani)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Sambhav-Rawani) [Email](mailto:sambhavrawani@gmail.com)
 - ⚡ Fun fact: I love solving complex coding problems and I’m always looking to learn something new every day!
 
 ---
