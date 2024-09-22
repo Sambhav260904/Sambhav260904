@@ -2,7 +2,7 @@
 
 I'm a passionate **Web Developer** and **Python enthusiast**, with a growing interest in **Data Structures and Algorithms**.
 
-- 🔭 I’m currently working on a **Spotify clone** project
+- 🔭 I’m currently working on a **web development** projects
 - 🌱 I’m currently learning **full-stack development** with technologies like **Node.js**, **MongoDB**, **Express**, and **React**
 - 👯 I’m looking to collaborate on web development projects and open-source contributions
 - 💬 Ask me about **Java**, **Python**, and **Web Development**
