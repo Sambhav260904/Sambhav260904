@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Sambhav Rawani! 👋
 
-<!--
-**Sambhav260904/Sambhav260904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** and **Python enthusiast**, with a growing interest in **Data Structures and Algorithms**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Spotify clone** project
+- 🌱 I’m currently learning **full-stack development** with technologies like **Node.js**, **MongoDB**, **Express**, and **React**
+- 👯 I’m looking to collaborate on web development projects and open-source contributions
+- 💬 Ask me about **Java**, **Python**, and **Web Development**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Sambhav-Rawani)
+- ⚡ Fun fact: I love solving complex coding problems and I’m always looking to learn something new every day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies:
+- **Languages**: Java, Python, JavaScript, HTML, CSS
+- **Frameworks**: Node.js, Express, React
+- **Database**: MongoDB
+- **Tools**: Git, VS Code
+
+---
+
+## 📈 GitHub Stats:
+![Sambhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambhav260904&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sambhav260904&theme=monokai)
+
+---
+
+## 🤝 Connect with Me:
+- LinkedIn: [Sambhav Rawani](https://www.linkedin.com/in/Sambhav-Rawani)
+- GitHub: [Sambhav260904](https://github.com/Sambhav260904)
+- Email: [sambhavrawani.com](mailto:sambhavrawani@gmail.com)
